@@ -1,2 +1,2 @@
 # AudioBand
-Hand Gesture Sensing using Ultrasonic Beams
+Hand Gesture Sensing using Ultrasonic Beam
