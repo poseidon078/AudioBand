@@ -1,4 +1,4 @@
-![hello](https://github.com/poseidon078/AudioBand.github.io/blob/master/Audioband_summer%20project'20.jpg)
+![hello](Audioband_summer%20project'20.jpg)
 ![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20%20(8).jpg)
 ![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20%20(6).jpg)
 ![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20%20(2).jpg)
