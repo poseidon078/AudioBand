@@ -1,12 +1,11 @@
-![hello](Audioband_summer%20project'20.jpg)
-![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20%20(8).jpg)
-![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20%20(6).jpg)
-![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20%20(2).jpg)
-![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20%20(3).jpg)
-![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20%20(1).jpg)
-![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20.png)
-![](https://github.com/poseidon078/AudioBand/blob/master/Audioband_summer%20project'20%20(7).jpg)
-![](https://images.pexels.com/photos/736230/pexels-photo-736230.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![](Audioband_summer%20project'20.jpg)
+![](Audioband_summer%20project'20%20(8).jpg)
+![](Audioband_summer%20project'20%20(6).jpg)
+![](Audioband_summer%20project'20%20(2).jpg)
+![](Audioband_summer%20project'20%20(3).jpg)
+![](Audioband_summer%20project'20%20(1).jpg)
+![](Audioband_summer%20project'20.png)
+![](Audioband_summer%20project'20%20(7).jpg)
 * Download the [MATLAB app installation file](https://github.com/thecasuist/AudioBand/raw/master/AudioBand.mlappinstall).
 * By clicking on the downloaded file, you will be directed to MATLAB. On the MATLAB ribbon, go to APPS->AudioBand.
 * Design the hand gesture and specify other physical constants.
